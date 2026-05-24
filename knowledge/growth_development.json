@@ -1,0 +1,62 @@
+{
+  "growth_development": {
+    "中文": "生长发育",
+    "同义词": ["development", "ontogeny"],
+    "定义": "生物体从出生到成熟过程中体积和形态的增加",
+    "相关研究": ["Bjork1963"]
+  },
+  "longitudinal_study": {
+    "中文": "纵向研究",
+    "同义词": ["longitudinal follow-up", "prospective study"],
+    "定义": "对同一研究对象进行长期的连续观察和测量",
+    "相关研究": ["Bjork1969"]
+  },
+  "lateral_growth": {
+    "中文": "横向生长",
+    "同义词": ["transverse growth"],
+    "定义": "颌骨在横向（左右方向）的生长变化",
+    "相关研究": ["Bjork1968"]
+  },
+  "vertical_dimension": {
+    "中文": "垂直尺度",
+    "同义词": ["vertical height", "vertical measurement"],
+    "定义": "颅面骨骼在垂直方向上的高度测量值",
+    "相关研究": ["Bjork1963"]
+  },
+  "puberty": {
+    "中文": "青春期",
+    "同义词": ["adolescence", "pubertal stage"],
+    "定义": "个体从儿童发育到成人的过渡阶段",
+    "相关研究": ["Bjork1969"]
+  },
+  "childhood": {
+    "中文": "儿童期",
+    "同义词": ["childhood stage", "early childhood"],
+    "定义": "从幼年到青春期开始的生长发育阶段",
+    "相关研究": ["Bjork1963"]
+  },
+  "growth_pattern": {
+    "中文": "生长模式",
+    "同义词": ["growth type", "growth direction"],
+    "定义": "个体在生长过程中表现出的特征性变化模式",
+    "相关研究": ["Bjork1969"]
+  },
+  "anterior_growth": {
+    "中文": "前向生长",
+    "同义词": ["forward growth", "anterior displacement"],
+    "定义": "颌骨向前方向的生长移动",
+    "相关研究": ["Bjork1968"]
+  },
+  "posterior_growth": {
+    "中文": "后向生长",
+    "同义词": ["backward growth", "posterior displacement"],
+    "定义": "颌骨向后方向的生长移动",
+    "相关研究": ["Bjork1969"]
+  },
+  "growth_direction": {
+    "中文": "生长方向",
+    "同义词": ["growth vector", "facial growth direction"],
+    "定义": "颌骨或颅面骨骼生长矢量的方向",
+    "相关研究": ["Bjork1968"]
+  }
+}
